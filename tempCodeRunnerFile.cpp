@@ -23,7 +23,7 @@ int main(){
     cin >> age;
     if (age<=20)
     {
-        cout << "Enter your height: ";
+        cout << "Enter your height:";
         cin >> height;
         if (height<160)
         {
